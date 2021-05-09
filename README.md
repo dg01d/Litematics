@@ -7,10 +7,13 @@ Read [Contributing](contributing.md)
 ### Farms
 * [Concrete Converter - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/LGB_Concrete_Converter.litematic/)
 * [Gold Farm - Simple - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/SM_Gold_farm.litematic/)
+* [Gunpowder Farm - Bulletwingsga](https://github.com/DillonB07/Litematics/raw/main/Files/Bulletwingsga/gunpowder_farm.litematic/)
 * [Hoglin Farm 1 layer - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/Hoglin_Farm1_Layer.litematic/)
 * [Iron Farm - Portal - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/logic_portal_farm.litematic/)
 * [Iron Farm - Simple - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/LGB_SM_Iron_Farm.litematic/)
 * [Minecart Loader - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/Minecart_Loader_Legacy_SMP_2_13.litematic/)
+* [Raid Farm](https://www.planetminecraft.com/project/raid-farm-inspired-by-raysworks/)
+* [Sand Duper - Bulletwingsga](https://github.com/DillonB07/Litematics/raw/main/Files/Bulletwingsga/sand_duper.litematic/)
 * [Raid Farm](https://www.planetminecraft.com/project/raid-farm-inspired-by-raysworks/)
 * [Villager Breeder - Infinite - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/SM_VillagerBreeder.litematic/)
 * [Villager Crop Farm - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/SM_CropFarm.litematic/)
@@ -42,4 +45,6 @@ For files that have been hosted here on GitHub and not gone through the official
   * [Twiiter](https://twitter.com/LogicalGeekBoy)
   * [Website](https://logicalgeekboy.com)
   * [Discord](https://discord.gg/FnYSbKF)
-
+* Bulletwingsga
+  * [YouTube](https://www.youtube.com/channel/UCOePECmkGEUabjnij7SxnUQ)
+  * [Discord](https://discord.gg/4BxtG8fjhM)
