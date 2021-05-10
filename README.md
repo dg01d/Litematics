@@ -5,6 +5,7 @@ A list of .litematics for [Litematica](https://www.curseforge.com/minecraft/mc-m
 Read [Contributing](contributing.md)
 
 ### Farms
+* [Carpet Duper (1.2m per hour) - Bulletwingsga](https://github.com/DillonB07/Litematics/raw/main/Files/Bulletwingsga/1.2m_carpet_dupper_per_hour.litematic/)
 * [Concrete Converter - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/LGB_Concrete_Converter.litematic/)
 * [Enderman XP Farm - Bulletwingsga](https://github.com/DillonB07/Litematics/raw/main/Files/Bulletwingsga/ultimate_enderman_xp_farm.litematic/)
 * [Gold Farm - Simple - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/SM_Gold_farm.litematic/)
