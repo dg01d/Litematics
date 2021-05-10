@@ -18,7 +18,7 @@ Read [Contributing](contributing.md)
 * [Magma Cube Farm Overworld Part - Bulletwingsga](https://github.com/DillonB07/Litematics/raw/main/Files/Bulletwingsga/magma_cube_farm_in_overworld.litematic/)
 * [Minecart Loader - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/Minecart_Loader_Legacy_SMP_2_13.litematic/)
 * [Raid Farm](https://www.planetminecraft.com/project/raid-farm-inspired-by-raysworks/)
-* [Sand Duper - Bulletwingsga](https://github.com/DillonB07/Litematics/raw/main/Files/Bulletwingsga/sand_duper.litematic/)
+* [Sand Duper - Rays Works](https://github.com/DillonB07/Litematics/raw/main/Files/Rays-Works/sand_duper.litematic/)
 * [Villager Breeder - Infinite - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/SM_VillagerBreeder.litematic/)
 * [Villager Crop Farm - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/SM_CropFarm.litematic/)
 * [Villager Trading Hall - No zombie discounts - logicalgeekboy](https://github.com/DillonB07/Litematics/raw/main/Files/logicalgeekboy/SM_TradingHall_noZombie.litematic/)
@@ -52,3 +52,6 @@ For files that have been hosted here on GitHub and not gone through the official
 * Bulletwingsga
   * [YouTube](https://www.youtube.com/channel/UCOePECmkGEUabjnij7SxnUQ)
   * [Discord](https://discord.gg/4BxtG8fjhM)
+* Rays Works
+  * [YouTube](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w)
+  * [Twitter](https://twitter.com/RaysWorks)
